@@ -48,7 +48,7 @@ trim = true
 
 #################################################################github路径#################################################################
 postprocessors = [
-    { pattern = '\$REPO', replace = "https://github.com/tyrchen/geektime-rust-live-coding" }, # replace repository URL
+    { pattern = '\$REPO', replace = "https://github.com/jwq756692922/base-template" }, # replace repository URL
 ]
 
 [git]
